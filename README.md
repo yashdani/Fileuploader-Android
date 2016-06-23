@@ -10,3 +10,5 @@ Library::: ### org.http.apache.legacy
 compile 'org.jbundle.util.osgi.wrapped:org.jbundle.util.osgi.wrapped.org.apache.http.client:4.1.2'
 ```
 add the above library in your gradle dependencies on app level
+
+click [here] for more details in using http client.(https://hc.apache.org/httpcomponents-client-4.3.x/android-port.html)
